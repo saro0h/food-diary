@@ -29,3 +29,9 @@ Then run the following commands in your favorite command line tool :
 
 `$ bin/console doctrine:database:create`
 `$ bin/console doctrine:schema:create`
+
+Run unit tests
+==============
+
+To run unit tests, you need to type the following command:
+`$ vendor/bin/phpunit`
